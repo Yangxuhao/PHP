@@ -1,0 +1,25 @@
+*{
+	border:0;}
+.login{
+	width:200px;
+	height:300px;
+	float:left;
+	}
+body{
+	border:1px solid silver;
+	width:500px;
+	height:700px;
+	margin:0 auto;}
+.inptxt1{
+	width:100px;
+	border-bottom:1px solid black;
+	background:#eeeeee;}
+.btn{
+	background-color:#fff;
+	border-style:solid;
+	border-width:2px 1px 1px 1px;
+	width:50px !important;
+	width:52px;}
+a{
+	text-decoration:none;
+	color:green;}

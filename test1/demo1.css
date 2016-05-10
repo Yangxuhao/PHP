@@ -1,0 +1,22 @@
+.s1{
+	color:green;
+	font-size:12px;
+	font-style:italic;
+	font-weight:bold;
+	text-decoration:underline;
+	}
+#id1{
+	color:red;
+	background-color:black;
+	}
+#id1 span{
+	background-color:silver;
+	color:blue;}
+.img{
+	filter:gray;}
+body{
+	border:1px solid red;
+	width:500px;
+	height:500px;
+	margin:0 auto;}
+
